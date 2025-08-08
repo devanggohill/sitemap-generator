@@ -1,0 +1,16 @@
+{
+  "generation_time": "2025-08-08T19:02:54.856315",
+  "elapsed_minutes": 51.8,
+  "total_urls_discovered": 2707,
+  "total_urls_crawled": 2219,
+  "failed_urls": 479,
+  "success_rate": 82.2,
+  "url_categories": {
+    "job_listings": 1482,
+    "company_pages": 4,
+    "location_pages": 13,
+    "department_pages": 22,
+    "career_pages": 1,
+    "other": 1185
+  }
+}
