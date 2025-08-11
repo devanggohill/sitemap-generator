@@ -119,10 +119,3 @@ Unauthorized crawling may violate a site's terms of service.
 ---
 
 If you like this project, ⭐ star it on GitHub to support development!
-
----
-
-I can also **create the `requirements.txt`** so your repo is 100% clone-and-run ready,
-and prepare a **demo screenshot** of the XML + report for the README.
-
-Do you want me to prepare those two extra things so your repo looks complete?
