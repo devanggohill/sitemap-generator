@@ -1,7 +1,3 @@
-Got it ✅
-Here’s your **polished, “GitHub Star-worthy” README** — no license section, but now with **badges, visuals, and a quick-start block** so it feels premium compared to average READMEs.
-
----
 
 # Enhanced Finploy Sitemap Generator
 
